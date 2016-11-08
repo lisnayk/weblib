@@ -1,5 +1,5 @@
 <?php
-namespace Lib\WebLib;
+namespace WebLib;
 
 class TestClass{
     public function __construct() {
