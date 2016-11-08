@@ -9,7 +9,7 @@
             "WebLib":""
         },
         "psr-4":{
-            "New\\WebLib\\":"NewWeblib/"
+            "Lib\\WebLib\\":"src/"
         }
     }
 }
